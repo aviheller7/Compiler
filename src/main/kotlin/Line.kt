@@ -1,0 +1,1 @@
+data class Line(var lineContent:String="",var lineNum:Int =0);
